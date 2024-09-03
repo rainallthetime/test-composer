@@ -1,0 +1,18 @@
+{
+    "name": "rain/test-composer",
+    "description": "test composer init",
+    "autoload": {
+        "psr-4": {
+            "Rain\\TestComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yanyaoliang",
+            "email": "yanyaoliang@banmahui.cn"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
