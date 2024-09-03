@@ -1,5 +1,5 @@
 {
-    "name": "rain/test-composer",
+    "name": "rainallthetime/test-composer",
     "description": "test composer init",
     "autoload": {
         "psr-4": {

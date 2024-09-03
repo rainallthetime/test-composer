@@ -1,0 +1,18 @@
+runtime
+\#*#
+.#*
+
+# php
+.php_cs.cache
+
+# IDEA
+.settings/
+*.iml
+*.ipr
+*.iws
+.idea/
+vendor/
+.php-version
+interface.tar.gz
+target/
+*.cache
